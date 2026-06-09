@@ -1,8 +1,7 @@
 # Community Bot
 
 ## Overview
-Welcome! This repository is a collection of Automatation Scripts. More run-on-cloud Automation Scripts are coming soon 😊
-
+Welcome! This repository is a collection of GitHub Automatation Scripts. 
 ## Key Features
 
 ### Automatic Follow Back: 
